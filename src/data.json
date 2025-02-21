@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Documents",
+        "isFolder": true,
+        "children": [
+            {
+                "id": 2,
+                "name": "Resume.pdf",
+                "isFolder": false
+            },
+            {
+                "id": 3,
+                "name": "Projects",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id": 4,
+                        "name": "ReactApp",
+                        "isFolder": true,
+                        "children": [
+                            {
+                                "id": 5,
+                                "name": "index.js",
+                                "isFolder": false
+                            },
+                            {
+                                "id": 6,
+                                "name": "App.js",
+                                "isFolder": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Downloads",
+        "isFolder": true,
+        "children": [
+            {
+                "id": 8,
+                "name": "movie.mp4",
+                "isFolder": false
+            },
+            {
+                "id": 9,
+                "name": "image.png",
+                "isFolder": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Music",
+        "isFolder": true,
+        "children": [
+            {
+                "id": 11,
+                "name": "song.mp3",
+                "isFolder": false
+            }
+        ]
+    }
+]
